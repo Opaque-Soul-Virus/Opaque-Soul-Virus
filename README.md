@@ -1,4 +1,4 @@
-![logo]([https://www.canva.com/design/DAGNonHNAxo/jxsMQfF0iymaGFwAKPCQjA/edit](https://www.canva.com/design/DAGNonHNAxo/jxsMQfF0iymaGFwAKPCQjA/edit?utm_content=DAGNonHNAxo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton))
+![logo](https://www.canva.com/design/DAGNonHNAxo/jxsMQfF0iymaGFwAKPCQjA/edit](https://www.canva.com/design/DAGNonHNAxo/jxsMQfF0iymaGFwAKPCQjA/edit?utm_content=DAGNonHNAxo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)](https://github.com/Opaque-Soul-Virus/Opaque-Soul-Virus/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner%20(1).png?raw=true))
 
 <h1 align="center">Hi 👋, I'm Sifat Zaman</h1>
 <h3 align="center">A passionate Cyber Security from Bangladesh</h3>
