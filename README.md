@@ -1,4 +1,4 @@
-![logo](C:\Users\LAPTOP BD\Downloads\Navy Blue Geometric Technology LinkedIn Banner.png)
+[logo](C:\Users\LAPTOP BD\Downloads\Navy Blue Geometric Technology LinkedIn Banner.png)
 
 <h1 align="center">Hi 👋, I'm Sifat Zaman</h1>
 <h3 align="center">A passionate Cyber Security from Bangladesh</h3>
