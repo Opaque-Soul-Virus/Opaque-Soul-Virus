@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Java Programming language**
 
-- 📫 How to reach me **szaman2330278@bscse.uiu.ac.bd**
+- 📫 How to reach me **sifatzaman8904@gmail.com**
 
 - ⚡ Fun fact **I am funny**
 
