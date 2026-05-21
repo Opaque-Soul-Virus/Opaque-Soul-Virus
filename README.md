@@ -1,4 +1,4 @@
-![logo](https://github.com/Opaque-Soul-Virus/Opaque-Soul-Virus/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner%20(1).png)
+![logo](Teal and Black Modern Programmer New LinkedIn Banner.png)
 
 <h1 align="center">Hi 👋, I'm Sifat Zaman</h1>
 <h3 align="center">A passionate AI & ML Engineering from Bangladesh</h3>
