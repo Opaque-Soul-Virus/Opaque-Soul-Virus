@@ -1,4 +1,4 @@
-![logo](Teal and Black Modern Programmer New LinkedIn Banner.png)
+![logo](https://github.com/Opaque-Soul-Virus/Opaque-Soul-Virus/blob/main/Teal%20and%20Black%20Modern%20Programmer%20New%20LinkedIn%20Banner.png?raw=true)
 
 <h1 align="center">Hi 👋, I'm Sifat Zaman</h1>
 <h3 align="center">A passionate AI & ML Engineering from Bangladesh</h3>
@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=opaque-soul-virus&label=Profile%20views&color=0e75b6&style=flat" alt="opaque-soul-virus" /> </p>
 
-- 🌱 I’m currently learning **Java Programming language**
+- 🌱 I’m currently learning **Web Programming and AI & ML **
 
 - 📫 How to reach me **sifatzaman8904@gmail.com**
 
