@@ -214,18 +214,6 @@ Aspiring **AI Engineer** and **Software Developer**, continuously learning and b
 ```
 
 ---
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=GradientHunter&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GradientHunter&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
 # 🔥 GitHub Streak
 
 <p align="center">
@@ -241,16 +229,6 @@ Aspiring **AI Engineer** and **Software Developer**, continuously learning and b
 <p align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=GradientHunter&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=GradientHunter&theme=tokyonight&no-frame=true&row=1&column=7"/>
 
 </p>
 
@@ -314,124 +292,6 @@ Aspiring **AI Engineer** and **Software Developer**, continuously learning and b
 <p align="center">
 
 <img src="https://ghchart.rshah.org/GradientHunter" alt="GitHub Contribution Chart"/>
-
-</p>
-
----
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/GradientHunter/GradientHunter/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
-
----
----
-
-# 🚀 Featured Projects
-
-### 📚 Library Management System
-> A console-based Library Management System developed using **Python Object-Oriented Programming**. Demonstrates inheritance, encapsulation, composition, properties, class methods, static methods, and exception handling.
-
----
-
-### 💰 Expense Tracker
-> A Python command-line application for managing daily expenses with **CRUD operations**, file handling, exception handling, and spending summary reports.
-
----
-
-### 🐄 Smart Livestock & Pet Care Platform
-> A modern software engineering project designed to help farmers and pet owners manage livestock, monitor health, vaccination schedules, feeding plans, and AI-assisted recommendations.
-
----
-
-### 🚦 Traffic Violation Management System
-> A web-based traffic management platform built using **HTML, CSS, JavaScript, PHP, and MySQL** to manage traffic violations, fines, and accident reports.
-
----
-
-### 🚢 Titanic Exploratory Data Analysis (EDA)
-> Performed comprehensive data analysis using **Python, Pandas, Matplotlib, and Machine Learning concepts** to identify survival patterns in the Titanic dataset.
-
----
-
-# 🎯 2026 Goals
-
-- ✅ Master Python Programming
-- 🤖 Learn Machine Learning
-- 🧠 Learn Deep Learning
-- 💬 Learn Natural Language Processing (NLP)
-- 🌐 Become a Full Stack Developer
-- 🚀 Build AI-powered Real World Applications
-- 📑 Publish Research Papers
-- 🏆 Solve 500+ Coding Problems
-- ☁ Learn Cloud Computing
-- 💼 Secure an AI/ML Internship
-
----
-
-# 💻 Coding Profiles
-
-<p align="center">
-
-<a href="https://leetcode.com/u/Gradient_Hunter/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-<a href="https://codeforces.com/profile/OpaqueSoulVirus">
-<img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=codeforces&logoColor=white"/>
-</a>
-
-<a href="https://www.hackerrank.com/profile/szaman2330278">
-<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-</a>
-
-<a href="https://www.kaggle.com/sifatzaman8904">
-<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-# 🤝 Open to Collaborate
-
-I am always interested in collaborating on projects related to:
-
-- 🤖 Artificial Intelligence
-- 🧠 Machine Learning
-- 💬 Natural Language Processing
-- 🌐 Full Stack Web Development
-- ☁ Cloud Computing
-- 🔒 Cyber Security
-- 📊 Data Science
-
-If you're working on an exciting project, feel free to connect with me!
-
----
-
-# 💡 Favorite Quote
-
-> **"Keep Learning. Keep Building. Keep Growing."** 🚀
-
----
-
-# 📫 Let's Connect
-
-<p align="center">
-
-<a href="mailto:sifatzaman8904@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/sifat-zaman-2177662b6">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://www.facebook.com/sifat.zaman.39">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-</a>
 
 </p>
 
